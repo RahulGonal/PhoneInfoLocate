@@ -14,3 +14,5 @@ The Creator/s are/is not responsible for any damage or misuse of the tool. Use t
 #2) Think before you type.
 #3) With great power comes great responsibility.
 ```
+## Latest Version
+` 1.2.0 `
