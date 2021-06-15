@@ -1,4 +1,8 @@
 # PhoneInfoLocate
+![MadeByRahul](https://img.shields.io/badge/Made%20By-RahulGonal-orange)
+![MadeWithPython](https://img.shields.io/badge/Made%20With-Python-blue)
+![Passed](https://img.shields.io/badge/Tests-Succesfully%20Passed-brightgreen)
+
 A python script from which you can get some info as well as location
 
 ## Disclaimer
