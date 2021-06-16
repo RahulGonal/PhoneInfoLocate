@@ -15,4 +15,4 @@ The Creator/s are/is not responsible for any damage or misuse of the tool. Use t
 #3) With great power comes great responsibility.
 ```
 ## Latest Version
-` 1.2.0 `
+` 1.3.0 `
