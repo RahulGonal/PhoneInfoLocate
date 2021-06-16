@@ -14,6 +14,13 @@ The Creator/s are/is not responsible for any damage or misuse of the tool. Use t
 #1) Respect the privacy of others.
 #2) Think before you type.
 #3) With great power comes great responsibility.
+
 ```
+## Commands for terminal in Linux
+```
+1. sudo apt update && upgrade
+2. sudo apt install git python -y
+3.
+
 ## Latest Version
 ` 1.3.0 `
