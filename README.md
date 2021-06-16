@@ -20,7 +20,11 @@ The Creator/s are/is not responsible for any damage or misuse of the tool. Use t
 ```
 1. sudo apt update && upgrade
 2. sudo apt install git python -y
-3.
+3. git clone https://github.com/RahulGonal/PhoneInfoLocate
+4. cd PhoneInfoLocate
+5. pip install -r requirements.txt
+6. python PhoneInfoLocate.py
+```
 
 ## Latest Version
 ` 1.3.0 `
