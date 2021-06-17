@@ -60,9 +60,17 @@ if "0" or "India" in Country:
  # Opening Website for USA
 if "1" or "USA" in Country:
   webbrowser.open_new("https://www.whitepages.com/phone/"+Number)
-
+  
+# Opening 2nd Website for USA
+if "1" or "USA" in Country:
+	print("Found Another Website")
+	print("Do you want to be redirected to that website (y/n) >>>>")
+	andWeb = input("Choose One Option >>>>")
+	if "y" in andWeb:
+		webbrowser.open_new("https://www.searchquarry.com/phone-number-lookup/"+Number)
+		
 # Opening Website for UK
-if "3" or "UK" in Country:
+if "2" or "UK" in Country:
 	webbrowser.open_new("https://whocalledmeuk.co.uk/phonenumber.php?numer="+Number)
 	
 print("Do You want to be redirected to the Truecaller Page of this phone number. (y/n)")
