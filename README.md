@@ -4,7 +4,7 @@
 ![Passed](https://img.shields.io/badge/Tests-Succesfully%20Passed-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-A python script from which you can get some info as well as location
+A python script from which you can get some info as well as location of a PhoneNumber
 
 ## Disclaimer
 The Creator/s are/is not responsible for any damage or misuse of the tool. Use this for educational purposes only.
